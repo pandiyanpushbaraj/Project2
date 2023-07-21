@@ -1,0 +1,70 @@
+.menu button
+{
+    margin-top: 6px;
+}
+
+.content img
+ {
+    width: 450px;
+    height: 28%;
+ }
+ 
+ .content .left
+   {
+    position:relative ;
+    bottom: 550px;
+    left: 50px;
+   }
+   .content .left small
+   {
+    position:absolute; 
+    left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: medium;
+    color: coral;
+   }
+
+   button
+   {
+    border: 2px solid red;
+    color: red;
+   }
+   button:hover
+   {
+    background-color: green;
+    color: white;
+   }
+
+   footer
+   {
+    width: 100%;
+    height: 130px; 
+     background-color:chartreuse; 
+     bottom: 50px;
+   }
+
+   footer div 
+    {
+      text-align: center;
+      margin: 10PX;
+    }
+  i
+  {
+    font-size: 30px;
+    cursor: pointer;
+  }
+
+  footer p a
+  {
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid red;
+    padding: 3px;
+    border-radius: 5px;
+  }
+  footer p
+  {
+    margin-top: 10px;
+  }
+  
